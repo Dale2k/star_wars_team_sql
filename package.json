@@ -1,0 +1,25 @@
+{
+  "name": "star_wars_team_sql",
+  "version": "1.0.0",
+  "description": "employee-tracker Summary Employee Tracker is a CLI applicaiton for building and maintaining companies employee data base. Built on MySQL and leveraging modularity in the structure of Employee Tracker, it can scale appropriatley with a companies growth without reconfiguring the core structure of the internal employee data base. This application can act as a foundation to continue to build upon. Employee allows managers or someone within the company to view all employees, roles, as well as departments. It also allows for adding employees, roles, departments and updating employees all from your CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dale2k/star_wars_team_sql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dale2k/star_wars_team_sql/issues"
+  },
+  "homepage": "https://github.com/Dale2k/star_wars_team_sql#readme"
+}
