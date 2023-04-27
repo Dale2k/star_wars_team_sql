@@ -1,9 +1,13 @@
+
+-- source schema.sql
+--mysql seed command
+-- remember to open terminal window command: source schema.sql if opened from same terminal window -folder
 --CREATE DATABASE
-DROP DATABASE IF EXISTS employee_trackerDB;
+DROP DATABASE IF EXISTS employee_tracker_DB;
 
-CREATE DATABASE employee_trackerDB;
+CREATE DATABASE employee_tracker_DB;
 
-USE employee_trackerDB;
+USE employee_tracker_DB;
 
 -- DEPARTMENT TABLE
 CREATE TABLE department (
