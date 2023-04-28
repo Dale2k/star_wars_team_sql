@@ -9,16 +9,13 @@ https://github.com/Dale2k/star_wars_team_sql
 
 
 
-[Walktrough_video link]()
+[Walktrough_video link](https://drive.google.com/file/d/1zxmTThSdKwkbezvSe0HukTOpo_msbnZW/view)
 
-
+https://drive.google.com/file/d/1zxmTThSdKwkbezvSe0HukTOpo_msbnZW/view
 
 ## Description
 
- Buildd a content management systems (CMS) accessed through the Command Line Interface (CLI) to manage a company's employee database, using Node.js, Inquirer, and MySQL.
-
-Because this Challenge will require the use of the `Inquirer` package, ensure that you install and use Inquirer version 8.2.4. To do so, use the following command in your project folder: `npm i inquirer@8.2.4`.
-
+ Build a content management systems (CMS) accessed through the Command Line Interface (CLI) to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 
 
@@ -33,7 +30,7 @@ I WANT to be able to view and manage the departments, roles, and employees in my
 Start mysql server 
 use  source schema.sql in MySQL CLI
 Npm install
-Npm Start index.js
+Npm Start 
 
 
 ## License
