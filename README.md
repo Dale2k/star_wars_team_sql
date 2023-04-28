@@ -3,32 +3,35 @@
 
 - The URL of the GitHub repository,
 
-[https://github.com/Dale2k/ecom_database](https://github.com/Dale2k/ecom_database)
+[https://github.com/Dale2k/star_wars_team_sql](https://github.com/Dale2k/star_wars_team_sql)
 
-https://github.com/Dale2k/ecom_database
+https://github.com/Dale2k/star_wars_team_sql
 
 
 
-[Walktrough_video link](https://drive.google.com/file/d/1yw9FlTR5lQ6FTIPG8M9pszbRzU35aq2e/view)
+[Walktrough_video link]()
 
 
 
 ## Description
 
-To build the back end for an e-commerce. To configure a working Express.js API to use Sequelize to interact with a MySQL database.
+ Buildd a content management systems (CMS) accessed through the Command Line Interface (CLI) to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+
+Because this Challenge will require the use of the `Inquirer` package, ensure that you install and use Inquirer version 8.2.4. To do so, use the following command in your project folder: `npm i inquirer@8.2.4`.
+
+
+
 
 ## User Story
 
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+I WANT to be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business
 
 
 ## Installation
 
 
 Start mysql server 
-use  source schema.sql in mysql cli
+use  source schema.sql in MySQL CLI
 Npm install
 Npm Start index.js
 
